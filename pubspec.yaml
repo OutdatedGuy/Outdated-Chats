@@ -39,7 +39,7 @@ dependencies:
 
   # For date timestamps
   intl:
-  flutter_launcher_icons: "^0.9.0"
+  flutter_launcher_icons: ^0.13.1
 
 flutter_icons:
   image_path: "assets/Icon/Icon.png" 
